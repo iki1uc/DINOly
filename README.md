@@ -2,5 +2,6 @@
 - ID: A01
 - Nummer: 01
 - Rolle: eine der 12 Stationen
+- Funktion: hält IQ, QI, EVO, UPD, UPG, BIOS und CALC immer im Verhältnis zueinander
 - Position: S01
-- Bezug: steht direkt nach CALC-00, vor S02–S12
+- OP: erabel (Operation bleibt möglich)
